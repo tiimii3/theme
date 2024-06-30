@@ -113,7 +113,7 @@
         "#FFFFFF"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#111111",
+        "#000000",
         "#FFFFFF"
       ],
       "CHAT_BACKGROUND": [
@@ -132,7 +132,7 @@
         "#FFFFFF"
       ],
       "BG_BACKDROP": [
-        "#000000"
+        "#04010173"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
         "#000000"
