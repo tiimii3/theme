@@ -24,15 +24,15 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#000000",
+            "#c71585",
             "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000",
+            "#c71585",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000",
+            "#c71585",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
