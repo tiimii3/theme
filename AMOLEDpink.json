@@ -28,11 +28,11 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#c71585",
+            "#000000",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#c71585",
+            "#000000",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
