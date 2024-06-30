@@ -72,7 +72,7 @@
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#120c0e",
+            "#000000",
             "#ffffff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
@@ -84,7 +84,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FFFFFF",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -92,7 +92,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
+            "#000000",
             "#FFFFFF"
         ],
         "SCROLLBAR_THIN_THUMB": [
