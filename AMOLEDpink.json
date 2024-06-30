@@ -154,7 +154,7 @@
         "PRIMARY_100": "#1a1a1a", 
         "PRIMARY_200": "#333333", 
         "PRIMARY_300": "#4d4d4d", 
-        "PRIMARY_360": "#666666", 
+        "PRIMARY_360": "#000000", 
         "PRIMARY_400": "#808080",
         "PRIMARY_500": "#a31570", 
         "PRIMARY_600": "#0e0a0b", 
@@ -162,7 +162,7 @@
         "PRIMARY_700": "#0c0c0c", 
         "PRIMARY_800": "#101010", 
         "PLUM_1": "#1a1a1a", 
-        "PLUM_10": "#666666", 
+        "PLUM_10": "#000000", 
         "PLUM_11": "#1a1a1a", 
         "PLUM_13": "#b3666b", 
         "PLUM_17": "#000000",
@@ -170,14 +170,14 @@
         "PLUM_19": "#0e0a0b", 
         "PLUM_20": "#0e0a0b", 
         "PLUM_22": "#0e0a0b", 
-        "BRAND_260": "#666666", 
+        "BRAND_260": "#000000", 
         "BRAND_500": "#a31570", 
         "BRAND_900": "#0e0a0b", 
-        "BRAND": "#666666", 
+        "BRAND": "#000000", 
         "YELLOW_300": "#1a1a1a", 
         "GREEN_600": "#1a1a1a", 
         "DANGER": "#a31570", 
-        "RED": "#666666" 
+        "BLACK": "#000000" 
     },
     "unsafe_colors": {
         "CHAT_GREY": "#120c0e"
