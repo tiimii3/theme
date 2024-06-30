@@ -148,38 +148,6 @@
             "#c71585",
             "#FFFFFF"
         ]
-    },
-    "rawColors": {
-        "PRIMARY": "#000000",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#B6B6B6",
-        "PRIMARY_360": "#C8C8C8",
-        "PRIMARY_400": "#808080",
-        "PRIMARY_500": "#c71585",
-        "PRIMARY_600": "#120c0e",
-        "PRIMARY_630": "#1a1b21",
-        "PRIMARY_700": "#101010",
-        "PRIMARY_800": "#151515",
-        "PLUM_1": "#FFFFFF",
-        "PLUM_10": "#828282",
-        "PLUM_11": "#232223",
-        "PLUM_13": "#eb99a1",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#120c0e",
-        "PLUM_19": "#120c0e",
-        "PLUM_20": "#120c0e",
-        "PLUM_22": "#120c0e",
-        "BRAND_260": "#8a94a8",
-        "BRAND_500": "#c71585",
-        "BRAND_900": "#120c0e",
-        "BRAND": "#8a94a8",
-        "YELLOW_300": "#ffffff",
-        "GREEN_600": "#ffffff",
-        "DANGER": "#c71585",
-        "RED": "848484"
-    },
-    "unsafe_colors": {
-        "CHAT_GREY": "#120c0e"
     }
+
 }
