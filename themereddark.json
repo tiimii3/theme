@@ -1,10 +1,10 @@
 {
-    "name": "Vader",
-    "description": "A nice pink dark theme.",
+    "name": "reddark",
+    "description": "RED dark theme.",
     "color": "#DA4453",
     "authors": [{
-        "name": "neinkatze",
-        "id": "1125315673829154837"
+        "name": "Timi",
+        "id": "1158072283101925555"
     }],
     "semanticColors": {
         "HEADER_PRIMARY": [
