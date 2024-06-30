@@ -2,10 +2,12 @@
     "name": "reddark",
     "description": "RED dark theme.",
     "color": "#DA4453",
-    "authors": [{
-        "name": "Timi",
-        "id": "1158072283101925555"
-    }],
+    "authors": [
+        {
+            "name": "Timi",
+            "id": "1158072283101925555"
+        }
+    ],
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff",
@@ -40,15 +42,15 @@
             "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#120c0e",
+            "#000000",
             "#ffffff"
         ],
         "BACKGROUND_SECONDARY": [
-            "#170c0e",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#170c0e",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_TERTIARY": [
@@ -56,7 +58,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#DA4453",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_FLOATING": [
@@ -68,31 +70,31 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#120c0e",
+            "#000000",
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#120c0e",
+            "#000000",
             "#ffffff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#DA4453",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#DA4453",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FFFFFF",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#FFFFFF",
+            "#000000",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
+            "#000000",
             "#FFFFFF"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -120,28 +122,28 @@
             "#FFFFFF"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000",
+            "#c8c8c8",
             "#FFFFFF"
         ],
         "CARD_PRIMARY_BG": [
             "#000000"
         ],
         "BG_BASE_PRIMARY": [
-            "#120c0e",
+            "#000000",
             "#FFFFFF"
         ],
         "BG_BACKDROP": [
             "#04010173"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#120c0e"
+            "#000000"
         ],
         "TEXT_LINK": [
             "#DA4453",
             "#FFFFFF"
         ],
         "KEYBOARD": [
-            "#120c0e",
+            "#000000",
             "#FFFFFF"
         ],
         "CHANNEL_ICON": [
