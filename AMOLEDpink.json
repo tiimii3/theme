@@ -180,6 +180,10 @@
         "RED": "848484"
     },
     "unsafe_colors": {
-        "CHAT_GREY": "#000000"
-    }
+        "CHAT_GREY": "#120c0e"
+    
+    },
+    "background": {
+        "color": "#000000"
+  }
 }
