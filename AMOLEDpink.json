@@ -41,7 +41,7 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#000000",
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000",
@@ -170,14 +170,14 @@
         "PLUM_19": "#120c0e",
         "PLUM_20": "#120c0e",
         "PLUM_22": "#120c0e",
-        "BRAND_260": "#000000",
-        "BRAND_500": "#000000",
-        "BRAND_900": "#000000",
-        "BRAND": "#000000",
+        "BRAND_260": "#8a94a8",
+        "BRAND_500": "#c71585",
+        "BRAND_900": "#120c0e",
+        "BRAND": "#8a94a8",
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
         "DANGER": "#c71585",
-        "PINK": "848484"
+        "PINK": "c71585"
     },
     "unsafe_colors": {
         "CHAT_GREY": "#120c0e"
