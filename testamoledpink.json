@@ -164,7 +164,7 @@
         "PRIMARY_700": "#101010",
         "PRIMARY_800": "#151515",
         "PLUM_1": "#FFFFFF",
-        "PLUM_10": "#c71585", // Spremenjeno iz #828282
+        "PLUM_10": "#c71585",
         "PLUM_11": "#232223",
         "PLUM_13": "#eb99a1",
         "PLUM_17": "#c71585",
@@ -179,9 +179,9 @@
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
         "DANGER": "#c71585",
-        "RED": "#c71585" // Spremenjeno iz #848484
+        "RED": "#c71585"
     },
     "unsafe_colors": {
-        "CHAT_GREY": "#c71585" // Spremenjeno iz #120c0e
+        "CHAT_GREY": "#c71585"
     }
 }
