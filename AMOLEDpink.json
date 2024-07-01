@@ -2,10 +2,12 @@
     "name": "AMOLEDpink",
     "description": "PINK AMOLED theme.",
     "color": "#c71585",
-    "authors": [{
-        "name": "Timi",
-        "id": "1158072283101925555"
-    }],
+    "authors": [
+        {
+            "name": "Timi",
+            "id": "1158072283101925555"
+        }
+    ],
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff",
@@ -41,59 +43,59 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#000000",
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000",
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FFFFFF",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#FFFFFF",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#201E25",
@@ -117,7 +119,7 @@
         ],
         "CHAT_BACKGROUND": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#c8c8c8",
@@ -128,7 +130,7 @@
         ],
         "BG_BASE_PRIMARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BG_BACKDROP": [
             "#04010173"
@@ -181,9 +183,5 @@
     },
     "unsafe_colors": {
         "CHAT_GREY": "#120c0e"
-    
-    },
-    "background": {
-        "color": "#000000"
-  }
+    }
 }
