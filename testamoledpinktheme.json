@@ -1,0 +1,187 @@
+{
+    "name": "testAMOLEDpink",
+    "description": "testPINK AMOLED theme.",
+    "color": "#c71585",
+    "authors": [
+        {
+            "name": "Timi",
+            "id": "1158072283101925555"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8c8c8",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#c71585",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c71585",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#c71585",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c71585",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#c71585", // Spremenjeno iz #363636
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#201E25",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#201E25",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000",
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#000000",
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#04010173"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000"
+        ],
+        "TEXT_LINK": [
+            "#c71585",
+            "#FFFFFF"
+        ],
+        "KEYBOARD": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#c71585",
+            "#FFFFFF"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#000000",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#808080",
+        "PRIMARY_500": "#c71585",
+        "PRIMARY_600": "#120c0e",
+        "PRIMARY_630": "#1a1b21",
+        "PRIMARY_700": "#101010",
+        "PRIMARY_800": "#151515",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_10": "#c71585",
+        "PLUM_11": "#232223",
+        "PLUM_13": "#eb99a1",
+        "PLUM_17": "#c71585",
+        "PLUM_18": "#120c0e",
+        "PLUM_19": "#120c0e",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#120c0e",
+        "BRAND_260": "#8a94a8",
+        "BRAND_500": "#c71585",
+        "BRAND_900": "#120c0e",
+        "BRAND": "#8a94a8",
+        "YELLOW_300": "#ffffff",
+        "GREEN_600": "#ffffff",
+        "DANGER": "#c71585",
+        "RED": "#c71585"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#c71585"
+    }
+}
