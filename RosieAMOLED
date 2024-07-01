@@ -1,7 +1,7 @@
 {
     "name": "RosieAMOLED",
     "description": "rosie AMOLED edition.",
-    "version": "1",
+    "version": "0.1",
     "authors": [
       {
         "name": "Timi",
@@ -205,7 +205,7 @@
         "#e7c6c6"
       ],
       "BG_MOD_FAINT": [
-        "#4A3441"
+        "#444444"
       ],
       "KEYBOARD": [
         "#000000"
