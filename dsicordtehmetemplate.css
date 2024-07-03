@@ -6,7 +6,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: 'DISCORD beta themes';
 
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
@@ -72,7 +72,7 @@
 	--blurple-to-accent-3-filter: hue-rotate(304deg) saturate(0.84) brightness(1.2); /* add friend page school icon */
 
 
-	--server-size: var(--HSL-server-icon-size, var(--HSL-size, 35px));
+	--server-size: var(--HSL-server-icon-size, var(--HSL-size, 40px));
 	--server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
 	--server-container: calc(var(--server-size) + 20px);
 	--server-direction: var(--HSL-server-direction, column);
