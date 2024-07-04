@@ -3,11 +3,17 @@
 @import url("https://aushevahmad.github.io/awesome-css/modules/custom-bar-prompt.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/custom-emoji-bar.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/vc-membercount.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/declutter.css");
+@import url("https://aushevahmad.github.io/awesome-css/modules/declutterplus.css");
+@import url("https://dablulite.github.io/css-snippets/QuickSwitchV2/import.css");
+@import url("https://dablulite.github.io/css-snippets/TabsV2HomeIcon/import.css");
+@import url("https://minidiscordthemes.github.io/Snippets/ForumImprovements/main.css");
 
 /* customize things here */
 
 :root {
-    --image-link: url("https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png");
+    --image-link: url("https://cdn.discordapp.com/emojis/1242546866168664124.gif?size=128&quality=losslessS");
     /*massage text*/
     --prompt-text: "be silly :3";
     /* font, change to 'gg sans' for default discord font*/
