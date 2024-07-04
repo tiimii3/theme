@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import url("https://aushevahmad.github.io/awesome-css/modules/adblock.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/custom-bar-prompt.css");
-@import url("https://aushevahmad.github.io/awesome-css/modules/custom-emoji-bar.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/vc-membercount.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/channeltweaks.css");
 @import url("https://aushevahmad.github.io/awesome-css/modules/declutter.css");
@@ -13,7 +12,6 @@
 /* customize things here */
 
 :root {
-    --image-link: url("https://cdn.discordapp.com/emojis/1242546866168664124.gif?size=128&quality=losslessS");
     /*massage text*/
     --prompt-text: "be silly :3";
     /* font, change to 'gg sans' for default discord font*/
