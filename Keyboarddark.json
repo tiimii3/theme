@@ -1,17 +1,20 @@
 {
-    "name": "AMOLED Dark Keyboard",
-    "author": "Timi",
-    "version": "1.0",
-    "description": "A dark theme with AMOLED black colors for the keyboard.",
-    "colors": {
-        "background": "#000000",
-        "key-background": "#1A1A1A",
-        "key-background-hover": "#333333",
-        "key-text": "#FFFFFF",
-        "key-text-hover": "#FFFFFF",
-        "accent": "#BB86FC",
-        "input-background": "#1A1A1A",
-        "input-text": "#FFFFFF",
-        "input-placeholder": "#B3B3B3"
+    "keyboard_theme": {
+        "name": "AMOLED Dark Keyboard",
+        "author": "Your Name",
+        "version": "1.0",
+        "description": "A dark theme with AMOLED black colors for the keyboard.",
+        "background_color": "#000000",
+        "key_color": {
+            "default": "#1A1A1A",
+            "pressed": "#333333",
+            "text": "#FFFFFF"
+        },
+        "accent_color": "#BB86FC",
+        "input_field": {
+            "background_color": "#1A1A1A",
+            "text_color": "#FFFFFF",
+            "placeholder_color": "#B3B3B3"
+        }
     }
 }
